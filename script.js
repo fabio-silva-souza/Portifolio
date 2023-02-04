@@ -14,7 +14,7 @@ list[2].addEventListener('click', () => {
 })
 
 list[3].addEventListener('click', () => {
-    h1.innerText = 'Contact';
+    h1.innerText = 'Fabio Souza';
     let contact = document.getElementById('contact')
     contact.classList.toggle('active')
 })
